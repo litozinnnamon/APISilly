@@ -2,7 +2,7 @@
   "game_settings_format_version": 1,
   "DISCORD_WEBHOOK": "",
   "gameperms": {
-    "eric123cool": [
+    "9900869": [
       { "RBXName": "roblox name", "discord": "username", "nickname": "nickname" },
       "changemap",
       "supertester",
