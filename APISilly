@@ -3,9 +3,6 @@
 	"DISCORD_WEBHOOK": "",
 
 	"gameperms": {
-
-		"123456": [
-		{"RBXName": "roblox name", "discord": "username", "nickname": "nickname"},
 		"changemap",
 		"supertester",
 		"tag",
@@ -15,6 +12,5 @@
 		"selfrank",
 		"kick",
 		"hardkick",
-		]
 	}
 }
